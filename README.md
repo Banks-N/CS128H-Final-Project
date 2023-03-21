@@ -1,5 +1,4 @@
 # CS128H-Final-Project
-Exercise Tracker
 
 Group Banks
 Banks Nowland (nowland2)
