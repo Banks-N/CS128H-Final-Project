@@ -4,7 +4,7 @@ Group Banks
 Banks Nowland (nowland2)
 
 
-Project Introduction : 
+## Project Introduction : 
 
 My idea for the project is to create an app that will allow me to track workouts and exercises aswell as display
 progress for those exercises and workouts. Here are my goals and objectives for the project: 
@@ -15,7 +15,7 @@ progress for those exercises and workouts. Here are my goals and objectives for 
 I've chosen to work on this project because this has been something that's been on my mind for the past few months, and I do want to make it happen.
 I've recently started working out consistenly, and have a crude spreadsheet where I log my exercises and progress, and it'd be nice to have an easier way to do this.
 
-Technical Overview :
+## Technical Overview :
 
 Checkpoint 1 : Working app with a GUI 
 Checkpoint 2 : GUI where you can enter exercises in and that information is saved
@@ -30,7 +30,7 @@ Display the history of this exercises, and perhaps an overview of how much progr
 
 
 
-Challenges:
+## Challenges:
 	Creating an app with rust
 	Implementing user friendly GUI's
 	Creating structs and functions that work together efficiently and correctly
