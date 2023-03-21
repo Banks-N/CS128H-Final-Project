@@ -1,7 +1,7 @@
 # CS128H-Final-Project
 
-	Group Banks
-	Banks Nowland (nowland2)
+Group Banks
+Banks Nowland (nowland2)
 
 
 ## Project Introduction : 
